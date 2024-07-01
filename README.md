@@ -34,7 +34,7 @@ Before using the Weather App, make sure you have the following:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/weather-app.git
+   git clone https://github.com/autkarsh989/weather-app.git
    ```
 
 2. Open the project in your preferred code editor.
